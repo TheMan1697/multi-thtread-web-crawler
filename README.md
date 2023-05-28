@@ -1,7 +1,13 @@
 # Multi-Thread 웹 크롤러 라이브러리
 
-이 라이브러리는 Rust를 활용하여 멀티스레드 환경에서 비동기 방식으로 [PokeAPI](https://pokeapi.co/)에서 포켓몬 정보를 가져옵니다.
-
+이 라이브러리는 Rust를 활용하여 멀티스레드 환경에서 비동기 방식으로 [PokeAPI](https://pokeapi.co/)에서 포켓몬 정보를 가져옵니다.  
+  
+#
+## 실행
+```
+cargo build
+cargo run
+```
 
 ## 기능
 
